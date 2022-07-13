@@ -42,7 +42,7 @@ describe('simulation', function() {
     }));
 
 
-    it('should execute happy path', inject(
+    it('应该执行快乐路径', inject(
       async function(simulator) {
 
         // when
@@ -66,7 +66,7 @@ describe('simulation', function() {
     ));
 
 
-    it('should choose secondary flow', inject(
+    it('应该选择二次流', inject(
       async function(simulator) {
 
         // given
@@ -93,9 +93,9 @@ describe('simulation', function() {
     ));
 
 
-    describe('pause at node', function() {
+    describe('在节点处暂停', function() {
 
-      it('should add pause point', inject(
+      it('应该添加暂停点', inject(
         async function(simulator) {
 
           // when
