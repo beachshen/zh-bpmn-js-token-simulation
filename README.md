@@ -14,7 +14,7 @@ Try it on the [classic booking example](https://bpmn-io.github.io/bpmn-js-token-
 Install via [npm](http://npmjs.com/).
 
 ```
-npm install bpmn-js-token-simulation
+npm install zh-bpmn-js-token-simulation
 ```
 
 
